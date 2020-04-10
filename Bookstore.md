@@ -1,7 +1,7 @@
 # Bookstore-
 Published books by OperAI related to Big Data, Machine Learning, Artificial Intelligence and the Internet of Things.
 
-OperAI and publishes and edits books related to  Big Data, Machine Learning, Artificial Intelligence and the Internet of Things. These books contains also codes that are available 
+OperAI publishes and edits books related to  Big Data, Machine Learning, Artificial Intelligence and the Internet of Things. These books contains codes with also walkthrough examples that are available under code repository.
 
 
 • A. Bari (2018) Edge & Fog Analytics: The New Analytics Interface https://www.amazon.ca/Edge-Fog-Analytics-New-Interface/dp/1723874108/
